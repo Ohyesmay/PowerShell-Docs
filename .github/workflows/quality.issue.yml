@@ -1,5 +1,5 @@
 name: "Quality Contribution Issues"
-on:
+on:ohyesmay0000
   issues:
     types:
       - opened
